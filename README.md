@@ -1,5 +1,5 @@
 # MatchingGame-ReactProject
-### Hosting (Netlify) - marvel-matching-game-111.netlify.app
+### Hosting (Netlify) - https://marvel-matching-game-111.netlify.app
 
 #### React and other features - useState, useEffect, conditional rendering
 
